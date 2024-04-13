@@ -41,8 +41,7 @@
         </div>
     </div>
 
-    
-    <div class="flex flex-col items-center relative ">
+    <div class="flex flex-col items-center relative">
         <div class="w-full max-w-lg mb-24">
             <!-- Contact Form Start -->
             <form action="https://formspree.io/f/xdoqpbyj" method="POST" class="bg-white/60 backdrop-blur-lg rounded-lg shadow-lg p-8 mb-4">
@@ -52,21 +51,21 @@
                     <label class="block text-gray-700 text-sm font-bold mb-2" for="name">
                         Name
                     </label>
-                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="name" type="text" placeholder="Your Name">
+                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="name" name="name" type="text" placeholder="Your Name">
                 </div>
                 
                 <div class="mb-4">
                     <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
                         Email
                     </label>
-                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" type="email" placeholder="you@example.com">
+                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" name="email" type="email" placeholder="you@example.com">
                 </div>
                 
                 <div class="mb-6">
                     <label class="block text-gray-700 text-sm font-bold mb-2" for="message">
                         Message
                     </label>
-                    <textarea class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="message" placeholder="Your message here..." rows="3"></textarea>
+                    <textarea class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="message" name="message" placeholder="Your message here..." rows="3"></textarea>
                 </div>
                 
                 <div class="flex items-center justify-between">
@@ -76,6 +75,8 @@
                 </div>
             </form>
         </div>
+    </div>
+    
 
         <div class="mb-24">
             <div class="flex justify-center space-x-12">
