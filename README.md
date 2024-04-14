@@ -1,4 +1,3 @@
-```markdown
 # Portfolio
 
 This repository contains the source code for my professional portfolio. It showcases my projects, including web applications, software solutions, and other technology-focused endeavors.
