@@ -28,16 +28,17 @@ npm start
 
 ## Features
 
-- **Responsive Design**: Ensures the portfolio is accessible on all devices.
-- **Interactive Elements**: Enhances user engagement through interactive elements.
-- **Clear Navigation**: Allows easy access to different sections of the portfolio.
+- **Project Timeline**: Neat timeline for projects.
+- **Gallery**: Gallery linked to said timeline.
+- **Sources**: Links to sources are included in the timeline.
+- **Contact Form**: Form to contact me via email.
 
 ## Technologies Used
 
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
-- Any specific frameworks or libraries used (e.g., React, Vue.js)
+
 
 ## License
 
