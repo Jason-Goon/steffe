@@ -5,7 +5,7 @@ This repository contains the source code for my professional portfolio. It showc
 ## Overview
 
 The portfolio is designed to be straightforward and user-friendly, providing a clear view of my skills and past work. It is implemented using modern web development technologies and is responsive to ensure accessibility on various devices.
-you can visit the portfolio at https://steffe.pages.dev/ 
+You can visit the portfolio at https://steffe.pages.dev/ 
 
 
 
