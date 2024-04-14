@@ -5,26 +5,9 @@ This repository contains the source code for my professional portfolio. It showc
 ## Overview
 
 The portfolio is designed to be straightforward and user-friendly, providing a clear view of my skills and past work. It is implemented using modern web development technologies and is responsive to ensure accessibility on various devices.
+you can visit the portfolio at https://steffe.pages.dev/ 
 
-## Getting Started
 
-To run the portfolio locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/portfolio.git
-
-# Navigate to the project directory
-cd portfolio
-
-# Install dependencies (assuming Node.js and npm are installed)
-npm install
-
-# Start the server (if applicable)
-npm start
-
-# Alternatively, open the index.html in a web browser if it's a static site
-```
 
 ## Features
 
